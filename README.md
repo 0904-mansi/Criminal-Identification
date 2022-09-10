@@ -2,7 +2,7 @@
 
 ## Problem Statement🧐 
 
-Develop an application or a native mobile application to demonstrate application of Face Recognition technology.
+Develop an Desktop application or a native mobile application to demonstrate application of Face Recognition technology.
 
 ## Solution ✨
 
