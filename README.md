@@ -1,4 +1,4 @@
-# Criminal-Identification & Missing People Detection
+# Criminal-Identification
 
 ## Problem Statement🧐 
 
