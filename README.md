@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/81081105/170887653-e613abe3-74aa-41e7-
  <img width="500" alt="Screenshot 2022-05-21 at 2 51 35 PM" src="https://user-images.githubusercontent.com/81081105/169645049-0b84ff23-5b71-424c-9820-fa55a84143a5.png"> -->
 
  
-
+<!--
 ## Model Build on Keeping These Criteria in Mind 👩🏻‍💻
 
 1. Performance of model
@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/81081105/170887653-e613abe3-74aa-41e7-
 6. Accessibility
 7. User friendly
 8. Accuracy 
-
+-->
 
 ## Technologies 👩🏻‍💻
 
