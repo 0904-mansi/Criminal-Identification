@@ -63,6 +63,7 @@ Python MySQL Connector is a Python driver that helps to integrate Python and MyS
 
 `Note: Tk interface can be different for different systems and their versions`
 
+<!--
 ## Steps to run the project 👇🏻
 
 1. start your mysql and apache server and navigate to localhost and create database of name `criminaldb`.
@@ -72,6 +73,8 @@ Python MySQL Connector is a Python driver that helps to integrate Python and MyS
 5. Before running the file extract all the files of `Images` Folder to your root directory. 
 6. Run the main python file `python or python3 main.py`.
 7. Now experience the GUI and features of the project.
+
+-->
 
 ## Glimpse of my Application 💁🏻‍♀️
 
@@ -114,13 +117,14 @@ https://user-images.githubusercontent.com/81081105/170838208-4eea8b95-a8a3-428b-
 
 <img width="1152" alt="Screenshot 2022-05-28 at 4 35 31 PM" src="https://user-images.githubusercontent.com/81081105/170837449-361ae831-e024-40b0-9413-a1bc0fa94a35.png"> 
 
+<!--
 ## Added Webcam Support for real time detection
 
 **Live Observation**      |  **Webcam access**
 :-------------------------:|:-------------------------:
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/81081105/188306412-ff133778-1981-4f82-955d-b854bf05f249.png"> |  <img width="600" alt="image" src="https://user-images.githubusercontent.com/81081105/188306792-6a60cf99-d0ba-48a7-be75-29e8f7af61cb.png">
 
-
+-->
 ## Future Scope 🕵️‍♀️
 
 1. Fingerprint Recognition and Eye detection can be added for Observation.
