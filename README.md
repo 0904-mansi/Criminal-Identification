@@ -6,7 +6,7 @@ Develop an Desktop application or a native mobile application to demonstrate app
 
 ## Solution ✨
 
-I propose criminal identification system and missing people identification to enhance and upgrade the criminal distinguishing into a more effective and efficient approach. Technology working behind it will be face recognition, from the footage captured by the CCTV cameras our system will detect the face and recognize the criminal who is coming to that public place. The captured images of the person coming to that public place get compared with the criminal data we have in our database. If any person’s face from public place matches, the system will display their image on the system screen and will give the message with their name that the criminal is found and present in this public place.
+I propose criminal identification system and missing people identification to enhance and upgrade the criminal distinguishing into a more effective and efficient approach. Technology working behind it will be face recognition. The captured images of the person coming to that public place get compared with the criminal data we have in our database. If any person’s face from public place matches, the system will display their image on the system screen and will give the message with their name that the criminal is found and present in this public place.
 
 <!--
 ## Presentation 
