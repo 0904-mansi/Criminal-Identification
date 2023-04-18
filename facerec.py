@@ -5,7 +5,7 @@ import cv2, numpy, os
 size = 2
 haar_cascade = cv2.CascadeClassifier('face_cascade.xml')
 
-# Part 1: Create fisherRecognizer
+#part 1
 def train_model():
     model = cv2.face.LBPHFaceRecognizer_create()
     fn_dir = 'face_samples'
@@ -41,7 +41,7 @@ def train_model():
     return (model, names)
 
 
-# Part 2: Use fisherRecognizer on camera stream
+# Part 2: Use LBPHrecognizer on camera stream
 def detect_faces(gray_frame):
     global size, haar_cascade
 
