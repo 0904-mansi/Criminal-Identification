@@ -74,7 +74,7 @@ Python MySQL Connector is a Python driver that helps to integrate Python and MyS
 6. Run the main python file `python or python3 main.py`.
 7. Now experience the GUI and features of the project.
 
--->
+
 
 ## Glimpse of my Application 💁🏻‍♀️
 
@@ -99,10 +99,11 @@ Python MySQL Connector is a Python driver that helps to integrate Python and MyS
 :-------------------------:|:-------------------------:
 <img width="600" alt="Screenshot 2022-05-28 at 4 19 33 PM" src="https://user-images.githubusercontent.com/81081105/170823024-4f6c3432-8eca-4e9e-8d57-458a2728fc6b.png">  |  <img width="600" alt="Screenshot 2022-05-28 at 4 17 09 PM" src="https://user-images.githubusercontent.com/81081105/170823029-a3c15dd6-279d-40f4-9862-43cce47609a6.png">
 
-<!-- **Video Observation**      |  **Video Observation**
+ **Video Observation**      |  **Video Observation**
 :-------------------------:|:-------------------------:
 https://user-images.githubusercontent.com/81081105/170838208-4eea8b95-a8a3-428b-bab0-176e9377cad4.mp4  | https://user-images.githubusercontent.com/81081105/170838232-701ca29d-2477-44db-a097-f01f62b42f51.mp4 -->
-
+-->
+<!--
 
 **Alerts**                 |  **Alerts**    
 :-------------------------:|:-------------------------:
@@ -111,7 +112,7 @@ https://user-images.githubusercontent.com/81081105/170838208-4eea8b95-a8a3-428b-
 **Alerts**                 | **Alerts**    
 :-------------------------:|:-------------------------:
 <img width="600" alt="Screenshot 2022-05-28 at 11 25 17 PM" src="https://user-images.githubusercontent.com/81081105/170837354-d99b0d47-0163-46f0-9432-e73ed613f381.png"> |  <img width="600" alt="Screenshot 2022-05-28 at 4 21 54 PM" src="https://user-images.githubusercontent.com/81081105/170837081-a88f4599-b149-4a41-81c8-3c309ee7c65d.png">
-
+-->
 
 **Terminal Output**
 
